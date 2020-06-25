@@ -1,0 +1,20 @@
+/Users/zhangkai/snake/package.yaml:
+  hash: 7fa24e95348040f09fa64eb3cc831fe9ee6379132b19605233ad2db27875a9e0
+  size: 487
+  modtime: 1593064422
+/Users/zhangkai/snake/src/Snake.hs:
+  hash: db64b9a08b60ea186cee0d250fc354cc2c8b1457cb41c68027bfbecb6c833bae
+  size: 7830
+  modtime: 1593074302
+/Users/zhangkai/snake/README.md:
+  hash: 7d3de0315796611b7bea943ba6fc26d26b1a86d452365689456210f3db961dcd
+  size: 8
+  modtime: 1593064354
+/Users/zhangkai/snake/src/Main.hs:
+  hash: 31e32afb7d447f613f32069cc9490d50c42f3b653df9eaed5b98fd1a739a5178
+  size: 77
+  modtime: 1593074298
+/Users/zhangkai/snake/snake.cabal:
+  hash: 0fe79b38eed484f9a5331ccd449f5bfbf1322a7160118e1f053a0b687f66f8a9
+  size: 756
+  modtime: 1593074291
